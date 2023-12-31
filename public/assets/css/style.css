@@ -19,7 +19,7 @@
   --white: #fff;
   --gray: #6c757d;
   --gray-dark: #343a40;
-  --primary: #f7b500;
+  --primary: #0D6EFD;
   --secondary: #6c757d;
   --success: #28a745;
   --info: #17a2b8;
@@ -1795,12 +1795,12 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #212529;
-  background-color: #f7b500;
-  border-color: #f7b500; }
+  background-color: #0D6EFD;
+  border-color: #0D6EFD; }
   .btn-primary:hover {
-    color: #212529;
-    background-color: #d19900;
-    border-color: #c49000; }
+    color: #ffffff;
+    background-color: #043683;
+    border-color: #0D6EFD; }
   .btn-primary:focus, .btn-primary.focus {
     color: #212529;
     background-color: #d19900;
@@ -4669,7 +4669,7 @@ a.close.disabled {
   vertical-align: text-top !important; }
 
 .bg-primary {
-  background-color: #f7b500 !important; }
+  background-color: #0D6EFD !important; }
 
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,

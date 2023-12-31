@@ -6,6 +6,7 @@
   "scripts": {
     "start": "gulp watch",
     "vendors": "gulp buildVendors",
+    "build":"public",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
